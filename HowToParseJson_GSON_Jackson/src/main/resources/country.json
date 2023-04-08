@@ -1,0 +1,13 @@
+{
+  "countryName": "Ukraine",
+  "adress": {
+    "street": "Bazhana Ave",
+    "block": "14",
+    "subway": "Osokorky"
+  },
+  "personalContacts": [
+    "Pavlo Kuzhel",
+    "+380 95 793-44-32",
+    "kppworks@gmail.com"
+  ]
+}

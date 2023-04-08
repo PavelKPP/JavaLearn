@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<units_catalog>
+    <city>
+        <adress>Bazhana Ave</adress>
+        <block>14</block>
+        <name>Kyiv</name>
+    </city>
+    <city>
+        <adress>Loggerhead Heights</adress>
+        <block>66</block>
+        <name>Kanata</name>
+    </city>
+</units_catalog>

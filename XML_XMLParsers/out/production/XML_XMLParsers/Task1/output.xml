@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+    <city BigCity="4">Kyiv</city>
+        <street>Bazhana ave</street>
+            <block>14</block>
+<city BigCity="2">London</city>
+        <street>Hornsey Rd</street>
+            <block>null</block>
